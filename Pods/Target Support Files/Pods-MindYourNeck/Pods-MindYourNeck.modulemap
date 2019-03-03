@@ -1,0 +1,6 @@
+framework module Pods_MindYourNeck {
+  umbrella header "Pods-MindYourNeck-umbrella.h"
+
+  export *
+  module * { export * }
+}

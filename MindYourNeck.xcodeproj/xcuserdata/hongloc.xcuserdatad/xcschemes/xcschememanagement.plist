@@ -7,7 +7,25 @@
 		<key>MindYourNeck.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>DD0D8DE6214ABF320023D097</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DD0D8DFD214ABF330023D097</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DD0D8E08214ABF330023D097</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
