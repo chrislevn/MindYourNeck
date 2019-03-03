@@ -15,12 +15,19 @@ https://drive.google.com/open?id=1ScnbrpPDWv-guLfx_vUhC1Vc964bPOO3
 ### 1. Coremotion based on phone's accelerometer:
 - Detect phone's postions (good, almost, bad, relax-use phone while lying, flat-phone on table)
 - Alarm users if they use their phone incorrectly 
+- Delay notification by the bell button 
+
+![](Detect.gif)
 
 ### 2. Giraffe Time: 
 - Allow users to surf web while having control of their posture
 
+![](GTime.gif)
+
 ### 3. Blog
 - Update users with blogs about health, fitness, lifestye, etc.
+
+![](Blog.gif)
 
 ## Update:
 This project is under construction for version 2.0 which has better posture detection through AI. Stay tuned!
