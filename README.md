@@ -29,5 +29,8 @@ https://drive.google.com/open?id=1ScnbrpPDWv-guLfx_vUhC1Vc964bPOO3
 
 ![](Blog.gif)
 
+### 4. Levels
+- Get to know your posture's current level based on how much time you used your phone correctly
+
 ## Update:
 This project is under construction for version 2.0 which has better posture detection through AI. Stay tuned!
